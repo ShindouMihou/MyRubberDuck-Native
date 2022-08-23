@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Inter-Black.ttf",
+      "sha1": "9b5dab77f3d6cf102b5faa071e4f86dfed402e28"
+    },
+    {
+      "path": "assets/fonts/Inter-BlackItalic.ttf",
+      "sha1": "d311070a3fd4f1eb8690beac83e3e994dfd6de85"
+    },
+    {
+      "path": "assets/fonts/Inter-Bold.ttf",
+      "sha1": "8ff32332776a23056827df16c79fe6a290a1df5a"
+    },
+    {
+      "path": "assets/fonts/Inter-BoldItalic.ttf",
+      "sha1": "5f5a0487c6f0af1f0a29e362251ac7c436773986"
+    },
+    {
+      "path": "assets/fonts/Inter-ExtraBold.ttf",
+      "sha1": "a1a629aac177ab3d0910079c2ded4307fd6ffa06"
+    },
+    {
+      "path": "assets/fonts/Inter-ExtraBoldItalic.ttf",
+      "sha1": "2ac73bb08c6ad30a9e3e172e51f3e39da1148079"
+    },
+    {
+      "path": "assets/fonts/Inter-ExtraLight.ttf",
+      "sha1": "fc7d105a40a650f2840d50111fd0787557868837"
+    },
+    {
+      "path": "assets/fonts/Inter-ExtraLightItalic.ttf",
+      "sha1": "78274750e947de5180fc12afa89a32f9b81b4430"
+    },
+    {
+      "path": "assets/fonts/Inter-Italic.ttf",
+      "sha1": "38fa9da59c9e5817622ee7c0be1815cb4b6ade26"
+    },
+    {
+      "path": "assets/fonts/Inter-Light.ttf",
+      "sha1": "65eb40880e2885bd1df84e523aff45f815f6ea79"
+    },
+    {
+      "path": "assets/fonts/Inter-LightItalic.ttf",
+      "sha1": "86da32fe05d78ef6c8d9e473dfe64878a997419f"
+    },
+    {
+      "path": "assets/fonts/Inter-Medium.ttf",
+      "sha1": "8bdd66f018907546dcdc10159abcd3b24c9d7bed"
+    },
+    {
+      "path": "assets/fonts/Inter-MediumItalic.ttf",
+      "sha1": "9380ed3681f75796d9d0741347c67455caa74561"
+    },
+    {
+      "path": "assets/fonts/Inter-Regular.ttf",
+      "sha1": "411be8db58dac4933c7ac9ecf20af357f242a38a"
+    },
+    {
+      "path": "assets/fonts/Inter-SemiBold.ttf",
+      "sha1": "2ce2a1e6ae26463d1929d712048887ab7adc0544"
+    },
+    {
+      "path": "assets/fonts/Inter-SemiBoldItalic.ttf",
+      "sha1": "63aa22104d8096307ead7045dee6871afa8534d4"
+    },
+    {
+      "path": "assets/fonts/Inter-Thin.ttf",
+      "sha1": "0bace04f4b79bdf6de6f74c56ce386d0db652484"
+    },
+    {
+      "path": "assets/fonts/Inter-ThinItalic.ttf",
+      "sha1": "e6976e11ceb3259a56580d5efccd60b6d7040f92"
+    }
+  ]
+}
