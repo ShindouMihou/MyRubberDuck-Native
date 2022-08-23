@@ -1,4 +1,4 @@
-package com.myrubberduck.newarchitecture;
+package pw.mihou.myrubberduck.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.myrubberduck.BuildConfig;
-import com.myrubberduck.newarchitecture.components.MainComponentsRegistry;
-import com.myrubberduck.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import pw.mihou.myrubberduck.BuildConfig;
+import pw.mihou.myrubberduck.newarchitecture.components.MainComponentsRegistry;
+import pw.mihou.myrubberduck.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

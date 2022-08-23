@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.myrubberduck",
+    package = "pw.mihou.myrubberduck",
 )
 
 android_resource(
     name = "res",
-    package = "com.myrubberduck",
+    package = "pw.mihou.myrubberduck",
     res = "src/main/res",
 )
 

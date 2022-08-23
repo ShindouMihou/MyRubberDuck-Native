@@ -1,4 +1,4 @@
-package com.myrubberduck.newarchitecture.components;
+package pw.mihou.myrubberduck.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

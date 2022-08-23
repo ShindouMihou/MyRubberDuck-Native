@@ -1,4 +1,4 @@
-package com.myrubberduck.newarchitecture.modules;
+package pw.mihou.myrubberduck.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
